@@ -1,0 +1,1 @@
+web: python olya_bot.py
